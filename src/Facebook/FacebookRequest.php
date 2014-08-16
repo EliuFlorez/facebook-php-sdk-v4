@@ -44,7 +44,7 @@ class FacebookRequest
   /**
    * @const string Default Graph API version for requests
    */
-  const GRAPH_API_VERSION = 'v2.0';
+  const GRAPH_API_VERSION = 'v2.1';
 
   /**
    * @const string Graph API URL
